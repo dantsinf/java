@@ -1,8 +1,5 @@
 public class Aula3 {
   public static void main(String[] args) {
-    // IF
-    // IF ELSE
-    // Switch
 
     int nota = 90;
     int faltas = 10;

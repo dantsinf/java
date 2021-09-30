@@ -9,5 +9,13 @@ public class Aula7 {
     int p = 15;
     int pos;
 
+    // Arrays.sort(num);
+    // Arrays.fill(numeros,10);
+    System.arraycopy(num, 0, numeros, 0, tam);
+
+    for (int n : numeros) {
+      System.out.printf("%d - ", n);
+    }
+
   }
 }

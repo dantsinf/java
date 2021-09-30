@@ -9,9 +9,10 @@ public class Aula7 {
     int p = 15;
     int pos;
 
-    // Arrays.sort(num);
-    // Arrays.fill(numeros,10);
+    // Arrays.sort(num); //sort ordena o array
+    // Arrays.fill(numeros,10); //preenche o array com valor específico
     System.arraycopy(num, 0, numeros, 0, tam);
+    System.arraycopy(src, srcPos, dest, destPos, length);
 
     for (int n : numeros) {
       System.out.printf("%d - ", n);

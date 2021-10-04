@@ -1,3 +1,3 @@
-# Aula 7
+# Aula 8
 
-### Métodos da classe Array
+### Matrizes
